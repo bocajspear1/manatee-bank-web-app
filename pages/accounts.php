@@ -1,0 +1,1 @@
+We have cool accounts with all the latest banking features, such as mulitple account management and more!

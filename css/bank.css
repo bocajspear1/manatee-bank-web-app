@@ -1,0 +1,39 @@
+body, html {
+    height: 100%;
+}
+
+nav {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#002400+0,005700+17,008a00+33,52b152+67,83c783+83,b4ddb4+100 */
+    background: rgb(0,36,0); /* Old browsers */
+    background: -moz-linear-gradient(left, rgba(0,36,0,1) 0%, rgba(0,87,0,1) 17%, rgba(0,138,0,1) 33%, rgba(82,177,82,1) 67%, rgba(131,199,131,1) 83%, rgba(180,221,180,1) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, rgba(0,36,0,1) 0%,rgba(0,87,0,1) 17%,rgba(0,138,0,1) 33%,rgba(82,177,82,1) 67%,rgba(131,199,131,1) 83%,rgba(180,221,180,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, rgba(0,36,0,1) 0%,rgba(0,87,0,1) 17%,rgba(0,138,0,1) 33%,rgba(82,177,82,1) 67%,rgba(131,199,131,1) 83%,rgba(180,221,180,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#002400', endColorstr='#b4ddb4',GradientType=1 ); /* IE6-9 */
+    
+}
+
+.navbar-fixed-top {
+    border:none;
+}
+
+.navbar-inverse .navbar-brand {
+    color: white;
+    font-size: 1.4em;
+}
+
+main {
+    margin-top: 70px;
+    height: 100%;
+}
+
+#page-content {
+    padding-top:15px;
+}
+
+footer {
+    border-top: 2px solid #FFD903;
+    text-align: center;
+    padding: 15px;
+    box-sizing: border-box;
+    bottom: 0;
+}
